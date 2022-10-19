@@ -31,9 +31,17 @@
             </div>
             <div class="two-third-width">
                 <label for="food-field-id">Любимая еда</label>
-                <select name="food" id="food-field-id">
-                    <option>Мясо</option>
-                    <option>Рыба</option>
+                <select name="food" id="food-field-id" disabled>
+                    <optgroup label="Мясо">
+                        <option value="1">Говядина</option>
+                        <option value="2">Телятина</option>
+                        <option value="3">Курица</option>
+                    </optgroup>
+                    <optgroup label="Рыба">
+                        <option value="4">Норвежский лосось</option>
+                        <option value="5">Карась</option>
+                        <option value="6">Морской окунь</option>
+                    </optgroup>
                 </select>
             </div>
         </fieldset>
