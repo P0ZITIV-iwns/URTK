@@ -15,3 +15,7 @@ aside {
 
     color: lightgrey;
 }
+
+figure {
+    margin: 0;
+}
