@@ -17,17 +17,13 @@ table {
     
 }
 
-caption {
-    caption-side: bottom;
-}
-
 figcaption {
     font-style: italic;
 }
 
 figure {
     float: right;
-    margin: 15px 0 15px 15px;
+    margin: 16px 0 16px 49px;
 }
 
 tr, th, td {
@@ -36,4 +32,9 @@ tr, th, td {
 
 sup {
     font-size: 0.5em;
+}
+
+caption {
+    font-style: italic;
+    caption-side: bottom;
 }
