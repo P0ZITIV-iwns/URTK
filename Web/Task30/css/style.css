@@ -38,7 +38,7 @@ body {
 }
 
 /* Оформление картинок */
-div.gallery .cat-foodlove {
+.gallery .cat-foodlove {
   background-image: url("../img/cat-foodlove.svg");
   background-color: white;
 }
@@ -53,7 +53,7 @@ div.gallery .cat-cage {
   border: 5px solid burlywood;
 }
 
-div.gallery div.cat-fat {
+.gallery div.cat-fat {
   background-image: url("../img/cat-fat.svg");
   width: 100px;
   height: 100px;
