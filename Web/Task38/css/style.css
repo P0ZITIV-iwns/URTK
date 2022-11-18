@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  width: 300px;
+  height: 300px;
+  background-color: #3498db;
+}
+
+.bg {
+  height: 300px;
+  background: 
+  url("../img/cat_fish_128.png") no-repeat 52.5% 84.5%,
+  url("../img/cat_grumpy_128.png") no-repeat 8.5% 72.5%,
+  url("../img/cat_drunk_128.png") no-repeat 93% 72.5%,
+  url("../img/cat_walk_128.png") no-repeat 46.5% 46.5%,
+  url("../img/cat_academy.png") no-repeat 39% 9%,
+  url("../img/star.png") repeat-x 0% 3.5%,
+  url("../img/star.png") repeat-x 0% 96.5%;
+}
+
+/*
+Адреса картинок:
+cat_fish_128.png
+cat_grumpy_128.png
+cat_drunk_128.png
+cat_walk_128.png
+cat_academy.png
+star.png
+
+Подсказка:
+Все координаты (background-position) кратны либо 5, либо 10
+*/
