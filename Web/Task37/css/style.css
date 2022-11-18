@@ -44,14 +44,14 @@ body {
   background-color: #3498db;
   background-image: url("../img/cat_walk.png");
   background-repeat: no-repeat;
-  background-position: 230% 50%;
+  background-position: 231% 50%;
 }
 
 .block5 {
   background-color: #3498db;
   background-image: url("../img/cat_walk.png");
   background-repeat: no-repeat;
-  background-position: -115% 50%;
+  background-position: -115.5% 50%;
 }
 
 .block6 {
@@ -76,7 +76,7 @@ body {
   background-color: #bdc3c7;
   background-image: url("../img/cat_grumpy.png");
   background-repeat: no-repeat;
-  background-position: -192% 50%;
+  background-position: -192.5% 50%;
 }
 
 /*
