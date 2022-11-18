@@ -20,7 +20,8 @@
 
 /* Cтили, которые нужно изменять */
 .column {
-  width: 80px;
+  width: 100px;
+  box-sizing: border-box;
   display: inline-block;
   vertical-align: top;
 }
@@ -35,7 +36,8 @@
 
 .cell {
   display: table-cell;
-  width: 100px;
+  width: 122px;
+  box-sizing: border-box;
 }
 
 .cell.col-3 {
