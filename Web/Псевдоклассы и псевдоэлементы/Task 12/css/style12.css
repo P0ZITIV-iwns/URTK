@@ -1,9 +1,0 @@
-li:only-child {
-    width: 60px;
-    height: 90px;
-}
-
-ul:only-child {
-    padding: 10px;
-    border: dashed 2px #55bb99;
-}
