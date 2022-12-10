@@ -1,0 +1,57 @@
+body {
+    width: 1440px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.main-header-nav img,
+.main-footer img {
+    display: block;
+    margin: 75px auto 50px auto;
+    
+}
+
+.site-navigation, 
+.footer-navigation {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0px;
+}
+
+.site-navigation-item > a, 
+.footer-navigation-item > a,
+.social-list-item > a {
+    padding: 0px 30px;
+}
+
+
